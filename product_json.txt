@@ -1,0 +1,50 @@
+[
+   {
+      "CATEGORY": "movies",
+      "NAME": "SOORARAI POTTRU",
+      "CERTIFICATION": "U/A",
+      "TICKETPRICE": "120"
+   },
+   {
+      "CATEGORY": "movies",
+      "NAME": "SCAM1992",
+      "CERTIFICATION": "U/A",
+      "TICKETPRICE": "120"
+   },
+   {
+      "CATEGORY": "movies",
+      "NAME": "BREAKING BAD",
+      "CERTIFICATION": "U/A",
+      "TICKETPRICE": "120"
+   },
+   {
+      "CATEGORY": "movies",
+      "NAME": "MIRZAPUR",
+      "CERTIFICATION": "U/A",
+      "TICKETPRICE": "120"
+   },
+   {
+      "CATEGORY": "movies",
+      "NAME": "BAD BOYS MILLIONAIRE",
+      "CERTIFICATION": "U/A",
+      "TICKETPRICE": "120"
+   },
+   {
+      "CATEGORY": "movies",
+      "NAME": "NEW WORLD",
+      "CERTIFICATION": "A",
+      "TICKETPRICE": "120"
+   },
+   {
+      "CATEGORY": "movies",
+      "NAME": "LKG",
+      "CERTIFICATION": "U",
+      "TICKETPRICE": "120"
+   },
+   {
+      "CATEGORY": "movies",
+      "NAME": "KAITHI",
+      "CERTIFICATION": "U/A",
+      "TICKETPRICE": "120"
+   }
+]

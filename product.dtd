@@ -1,0 +1,21 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT product_details (product)+>
+<!ATTLIST product_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT product (NAME,TICKETPRICE,description)>
+<!ATTLIST product
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT NAME (#PCDATA)>
+<!ATTLIST NAME
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT TICKETPRICE (#PCDATA)>
+<!ATTLIST TICKETPRICE
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description
+  xmlns CDATA #FIXED ''>

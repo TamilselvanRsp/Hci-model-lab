@@ -1,0 +1,27 @@
+[
+   {
+      "NAME": "SOORARAI POTTRU",
+      "TICKETPRICE": "120",
+      "description": "Nedumaaran Rajangam \"Maara\" sets out to make the common man fly and in the process takes on the world's most capital intensive industry and several enemies who stand in his way."
+   },
+   {
+      "NAME": "BREAKING BAD",
+      "TICKETPRICE": "120",
+      "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future."
+   },
+   {
+      "NAME": "MIRZAPUR",
+      "TICKETPRICE": "120",
+      "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur."
+   },
+   {
+      "NAME": "NEW WORLD",
+      "TICKETPRICE": "120",
+      "description": "An undercover cop finds it difficult to play both a cop and a goon."
+   },
+   {
+      "NAME": "LKG",
+      "TICKETPRICE": "120",
+      "description": "LKG, a councillor of a small town, aspires to become the chief minister of the state. He enlists the help of the corporates to impress the public but faces threat from another politician.ss"
+   }
+]
